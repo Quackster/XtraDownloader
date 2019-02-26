@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\XtraDownload\XtraDownload\obj\Debug\XtraDownload.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\XtraDownload\XtraDownload\obj\Debug\XtraDownload.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\XtraDownload\XtraDownload\bin\Debug\XtraDownload.exe.config
+C:\Users\Alex\source\repos\XtraDownload\XtraDownload\bin\Debug\XtraDownload.exe
+C:\Users\Alex\source\repos\XtraDownload\XtraDownload\bin\Debug\XtraDownload.pdb
+C:\Users\Alex\source\repos\XtraDownload\XtraDownload\obj\Debug\XtraDownload.exe
+C:\Users\Alex\source\repos\XtraDownload\XtraDownload\obj\Debug\XtraDownload.pdb
