@@ -1,0 +1,23 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/ShockwavePlayer]
+@=""
+"Description"="Macromedia Shockwave Player"
+"Path"="C:\\Program Files\\Pale Moon\\plugins\\np32dsw.dll"
+"ProductName"="Macromedia Shockwave Player"
+"Vendor"="Macromedia Inc"
+"Version"="10.1.3.024"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/ShockwavePlayer\MimeTypes]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/ShockwavePlayer\MimeTypes\application/x-director]
+@=""
+"Description"="Macromedia Director Movie"
+"Suffixes"="dir,dcr,dxr"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\MozillaPlugins\@macromedia.com/ShockwavePlayer\Suffixes]
+@=""
+"dir"=""
+"dcr"=""
+"dxr"=""
