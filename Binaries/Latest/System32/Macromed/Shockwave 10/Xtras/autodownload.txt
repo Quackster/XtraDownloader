@@ -1,0 +1,27 @@
+["speech.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/Speech",\
+"swadcmpr.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/SWA",\
+"swastrm.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/SWA",\
+"font asset.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/FontAsset",\
+"font xtra.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/FontXtra",\
+"text asset.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/TextAsset",\
+"textxtra.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/TextXtra", \
+"directsound.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/DirectSound",\
+"macromix.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/MacroMix",\
+"sound control.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/SoundControl",\
+"shockwave 3d asset.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/Shockwave3dAsset",\
+"multiusr.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/Multiusr",\
+"dvd asset.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/DVDAsset",\
+"flash asset.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/FlashAsset",\
+"windows media asset.x32": "http://download.macromedia.com/pub/shockwave10.4/xtras/WindowsMediaAsset",\
+"speech": "http://download.macromedia.com/pub/shockwave10.1/xtras/Speech",\
+"swa decompression ppc xtra": "http://download.macromedia.com/pub/shockwave10.1/xtras/SWA",\
+"swa streaming ppc xtra": "http://download.macromedia.com/pub/shockwave10.1/xtras/SWA",\
+"font asset ppc": "http://download.macromedia.com/pub/shockwave10.1/xtras/FontAsset",\
+"font xtra ppc": "http://download.macromedia.com/pub/shockwave10.1/xtras/FontXtra",\
+"textasset ppc": "http://download.macromedia.com/pub/shockwave10.1/xtras/TextAsset",\
+"textxtra ppc": "http://download.macromedia.com/pub/shockwave10.1/xtras/TextXtra",\
+"sound control": "http://download.macromedia.com/pub/shockwave10.1/xtras/SoundControl",\
+"shockwave 3d asset xtra": "http://download.macromedia.com/pub/shockwave10.1/xtras/Shockwave3dAsset",\
+"multiusr": "http://download.macromedia.com/pub/shockwave10.1/xtras/Multiusr",\
+"dvd asset": "http://download.macromedia.com/pub/shockwave10.1/xtras/DVDAsset",\
+"flash asset ppc": "http://download.macromedia.com/pub/shockwave10.1/xtras/FlashAsset"]

@@ -1,0 +1,1079 @@
+***  Installation Started 06/23/2017 10:09  ***
+Title: Shockwave Player
+Source: C:\Users\Asc\AppData\Local\Temp\GLB195D.tmp | 06-23-2017 | 10:09:48 | 71680
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 1
+RegDB Root: 2
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 2
+RegDB Root: 2
+RegDB Old: 1
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 2
+RegDB Root: 2
+RegDB Old: 1
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 3
+RegDB Root: 2
+RegDB Old: 2
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 3
+RegDB Root: 2
+RegDB Old: 2
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 15
+RegDB Root: 2
+RegDB Old: 14
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 15
+RegDB Root: 2
+RegDB Old: 14
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 16
+RegDB Root: 2
+RegDB Old: 15
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 16
+RegDB Root: 2
+RegDB Old: 15
+RegDB Key: Software\Adobe\Shockwave 11\3rdptycode
+RegDB Val: 25690115
+RegDB Root: 2
+RegDB Key: Software\Macromedia\Shockwave 10\3rdptycode
+RegDB Val: 25690115
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\3rdpartyofferfailurereason
+RegDB Val: 0
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\oslocale
+RegDB Val: 1035
+RegDB Root: 2
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\UNWISE.EXE | 06-25-1999 | 10:55:30 | | 149504 | 30fdd633
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: Adobe Shockwave Player
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: C:\Windows\System32\Adobe\SHOCKW~2\UNWISE.EXE C:\Windows\System32\Adobe\SHOCKW~2\Install.log
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: Adobe Shockwave Player 11
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: C:\Windows\system32\adobe\SHOCKW~1\UNWISE.EXE C:\Windows\system32\Adobe\SHOCKW~1\Install.log
+RegDB Name: UninstallString
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: 11
+RegDB Name: DisplayVersion
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: Adobe Systems, Inc.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: http://www.adobe.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: C:\Windows\system32\Adobe\
+RegDB Name: InstallLocation
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: 11
+RegDB Name: VersionMajor
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: 0
+RegDB Name: VersionMinor
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: C:\Windows\system32\Adobe\Shockwave 11\SwInit.exe,0
+RegDB Name: DisplayIcon
+RegDB Root: 2
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 17
+RegDB Root: 2
+RegDB Old: 16
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 17
+RegDB Root: 2
+RegDB Old: 16
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 18
+RegDB Root: 2
+RegDB Old: 17
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 18
+RegDB Root: 2
+RegDB Old: 17
+File Overwrite: C:\Windows\System32\msvcp71.dll | 06-30-2008 | 10:02:34 | 7.10.3077.0 | 499712 | 5a3b11d4
+File Overwrite: C:\Windows\System32\msvcr71.dll | 10-07-2004 | 21:40:42 | 7.10.6004.4 | 348160 | 35563170
+File Overwrite: C:\Windows\System32\msvcrt.dll | 12-16-2011 | 10:53:00 | 7.0.7601.17744 | 343040 | 5298c0c5
+Date/Time: Following file not copied.
+ File Copy: C:\Windows\system32\Adobe\Director\SwDir.dll
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Control.dll | 01-16-2009 | 19:17:42 | 11.0.3.472 | 499712 | f8bdca23
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\dirapi.dll | 01-16-2009 | 18:58:24 | 11.0.3.472 | 1798144 | d269c09c
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\DynaPlayer.dll | 01-16-2009 | 19:17:46 | 11.0.3.472 | 9216 | a10a1bca
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\iml32.dll | 01-16-2009 | 18:54:42 | 11.0.3.472 | 892928 | 658f2c27
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Plugin.dll | 01-16-2009 | 19:16:22 | 11.0.3.472 | 266240 | 5254e085
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Proj.dll | 01-16-2009 | 19:18:16 | 11.0.3.472 | 446464 | 9469eb88
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\SwHelper_1103472.exe | 01-16-2009 | 19:25:14 | 11.0.3.472 | 460216 | 7f74809a
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\SwInit.exe | 01-16-2009 | 19:16:08 | 11.0.3.472 | 114688 | 75868425
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\SwMenu.dll | 01-16-2009 | 19:16:06 | 11.0.3.472 | 94208 | 3f998e12
+Made Dir: C:\Windows\system32\Adobe\Shockwave 11\Xtras
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Animated GIF Asset.x32 | 01-16-2009 | 19:13:04 | 11.0.3.472 | 30208 | ab8624ed
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\BitmapFilters.x32 | 01-16-2009 | 19:14:12 | 11.0.3.472 | 98304 | afbe2a68
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\CBrowser.x32 | 01-16-2009 | 18:58:46 | 11.0.3.472 | 12800 | a533bc13
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Cursor Asset.x32 | 01-16-2009 | 19:12:56 | 11.0.3.472 | 69632 | e9880fa2
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\DirectSound.x32 | 01-16-2009 | 19:13:20 | 11.0.3.472 | 17408 | a7605e84
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\DVD Asset.x32 | 01-16-2009 | 19:13:16 | 11.0.3.472 | 81920 | 8b69d0dc
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Dynamiks.x32 | 01-16-2009 | 19:24:24 | 11.0.3.472 | 2551808 | b939ad5e
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Flash Asset.x32 | 01-16-2009 | 19:11:30 | 11.0.3.472 | 3264512 | 9fbce8e8
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Font Asset.x32 | 01-16-2009 | 19:12:10 | 11.0.3.472 | 69632 | 7086e7aa
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Font Xtra.x32 | 01-16-2009 | 19:12:00 | 11.0.3.472 | 282624 | ab86397
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Havok.x32 | 01-16-2009 | 18:33:58 | 1.2.0.0 | 573440 | c0657443
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\INetURL.x32 | 01-16-2009 | 18:58:52 | 11.0.3.472 | 32256 | 51d6d09e
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\MacroMix.x32 | 01-16-2009 | 19:13:26 | 11.0.3.472 | 37376 | 8ee77fff
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Mix Services.x32 | 01-16-2009 | 19:14:24 | 11.0.3.472 | 81920 | 4b39214a
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\MPEG 3 Import Export.x32 | 01-16-2009 | 19:15:02 | 11.0.3.472 | 73728 | 3c798095
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Multiusr.x32 | 01-16-2009 | 19:12:40 | 11.0.3.472 | 167936 | 8bdf7a96
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Netfile.x32 | 01-16-2009 | 18:58:36 | 11.0.3.472 | 41984 | 66931e88
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Netlingo.x32 | 01-16-2009 | 18:58:42 | 11.0.3.472 | 36352 | fe0298ce
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\PNG Import Export.x32 | 01-16-2009 | 19:15:18 | 11.0.3.472 | 139264 | bdf2db7a
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\QT6Asset.x32 | 01-16-2009 | 19:00:58 | 11.0.3.472 | 126976 | 8867ee36
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\RealMedia Asset.x32 | 01-16-2009 | 19:01:18 | 11.0.3.472 | 81920 | fb408fef
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Shockwave 3d Asset.x32 | 01-16-2009 | 19:23:04 | 11.0.3.472 | 1605632 | 69d9fb89
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Sound Control.x32 | 01-16-2009 | 19:13:36 | 11.0.3.472 | 53248 | 1f0bc1ad
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Sound Import Export.x32 | 01-16-2009 | 19:15:32 | 11.0.3.472 | 77824 | e90581be
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Speech.x32 | 01-16-2009 | 19:13:58 | 11.0.3.472 | 49152 | 4c03687e
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Sun AU Import Export.x32 | 01-16-2009 | 19:14:32 | 11.0.3.472 | 22528 | b988cee6
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\SWA Import Export.x32 | 01-16-2009 | 19:15:38 | 11.0.3.472 | 25088 | 1b73be72
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Swadcmpr.x32 | 01-16-2009 | 19:00:14 | 11.0.3.472 | 73728 | de167514
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Swastrm.x32 | 01-16-2009 | 19:00:24 | 11.0.3.472 | 45568 | 4d0572b5
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Targa Import Export.x32 | 01-16-2009 | 19:15:40 | 11.0.3.472 | 21504 | a0b63837
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Text Asset.x32 | 01-16-2009 | 19:00:06 | 11.0.3.472 | 94208 | de242935
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\TextXtra.x32 | 01-16-2009 | 18:59:54 | 11.0.3.472 | 823296 | 63dc1cb1
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Tiff Import Export.x32 | 01-16-2009 | 19:15:46 | 11.0.3.472 | 159744 | 72870f22
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\Windows Media Asset.x32 | 01-16-2009 | 19:13:48 | 11.0.3.472 | 81920 | 9096a4bd
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\Xtras\XMLParser.x32 | 01-16-2009 | 19:12:50 | 11.0.3.472 | 159744 | d6939722
+File Copy: C:\Windows\System32\Adobe\Director\M5drvr32.exe | 01-16-2009 | 18:33:56 | | 330 | f0382469
+File Copy: C:\Windows\System32\Adobe\Director\M5if32.dll | 01-16-2009 | 18:33:56 | | 330 | f0382469
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\shockwave_Projector_Loader.dcr | 01-16-2009 | 18:34:14 | | 9622 | 2318c8b4
+File Copy: C:\Windows\System32\Adobe\Shockwave 11\SwLogo.bmp | 01-16-2009 | 18:42:02 | | 15412 | cc32209b
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 19
+RegDB Root: 2
+RegDB Old: 18
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 19
+RegDB Root: 2
+RegDB Old: 18
+RegDB Key: Software
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\AppDataLow\Software\Adobe
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\AppDataLow\Software\Adobe\Shockwave 11\fpng
+RegDB Val: y
+RegDB Root: 1
+RegDB Key: Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{39A895E9-93DD-4ffa-A4A3-2C14608B5B61}
+RegDB Val: SwHelper_1103472.EXE
+RegDB Name: AppName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{39A895E9-93DD-4ffa-A4A3-2C14608B5B61}
+RegDB Val: C:\Windows\SysWOW64\Adobe\Shockwave 11
+RegDB Name: AppPath
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{39A895E9-93DD-4ffa-A4A3-2C14608B5B61}
+RegDB Val: 3
+RegDB Name: Policy
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Internet Explorer\Low Rights\ElevationPolicy\{39A895E9-93DD-4ffa-A4A3-2C14608B5B61}
+RegDB Val: {AF551664-D2DF-4E34-85DE-46320B13A0B4}
+RegDB Name: CLSID
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\currentupdateversion
+RegDB Val: 1103472
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\shimcontrol\ThisUpdateVersion
+RegDB Val: 1103472
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\location\coreplayer
+RegDB Val: C:\Windows\system32\Adobe\Shockwave 11\
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\location\coreplayerxtras
+RegDB Val: C:\Windows\system32\Adobe\Shockwave 11\xtras\
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\location\common
+RegDB Val: C:\Windows\system32\Adobe\common\
+RegDB Root: 2
+RegDB Key: Software
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Adobe
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Adobe\Shockwave 11
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\Adobe\Shockwave 11\fpng
+RegDB Val: y
+RegDB Root: 1
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 20
+RegDB Root: 2
+RegDB Old: 19
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 20
+RegDB Root: 2
+RegDB Old: 19
+RegDB Key: Software\Microsoft\Active Setup\Installed Components\{233C1507-6A77-46A4-9443-F871F945D258}
+RegDB Val: Director
+RegDB Name: ComponentID
+RegDB Root: 2
+RegDB Old: Director
+RegDB Key: Software\Microsoft\Active Setup\Installed Components\{233C1507-6A77-46A4-9443-F871F945D258}
+RegDB Val: 01 00 00 00
+RegDB Name: IsInstalled
+RegDB Type: 4
+RegDB Root: 2
+RegDB Old: 01000000
+RegDB Key: Software\Microsoft\Active Setup\Installed Components\{233C1507-6A77-46A4-9443-F871F945D258}
+RegDB Val: 11,0,3,472
+RegDB Name: Version
+RegDB Root: 2
+RegDB Old: 11,0,3,472
+RegDB Key: Software\Microsoft\Active Setup\Installed Components\{233C1507-6A77-46A4-9443-F871F945D258}
+RegDB Val: EN
+RegDB Name: Locale
+RegDB Root: 2
+RegDB Old: EN
+RegDB Key: Software\Microsoft\Active Setup\Installed Components\{2A202491-F00D-11cf-87CC-0020AFEECF20}
+RegDB Val: Director
+RegDB Name: ComponentID
+RegDB Root: 2
+RegDB Old: Director
+RegDB Key: Software\Microsoft\Active Setup\Installed Components\{2A202491-F00D-11cf-87CC-0020AFEECF20}
+RegDB Val: 01 00 00 00
+RegDB Name: IsInstalled
+RegDB Type: 4
+RegDB Root: 2
+RegDB Old: 01000000
+RegDB Key: Software\Microsoft\Active Setup\Installed Components\{2A202491-F00D-11cf-87CC-0020AFEECF20}
+RegDB Val: 11,0,3,472
+RegDB Name: Version
+RegDB Root: 2
+RegDB Old: 11,0,3,472
+RegDB Key: Software\Microsoft\Active Setup\Installed Components\{2A202491-F00D-11cf-87CC-0020AFEECF20}
+RegDB Val: EN
+RegDB Name: Locale
+RegDB Root: 2
+RegDB Old: EN
+RegDB Key: Software\Microsoft\Active Setup\Installed Components\{233C1507-6A77-46A4-9443-F871F945D258}
+RegDB Val: Adobe Shockwave Director 11.0.3
+RegDB Root: 2
+RegDB Old: Adobe Shockwave Director 11.0.3
+RegDB Key: Software\Microsoft\Active Setup\Installed Components\{2A202491-F00D-11cf-87CC-0020AFEECF20}
+RegDB Val: Adobe Shockwave Director 11.0.3
+RegDB Root: 2
+RegDB Old: Adobe Shockwave Director 11.0.3
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Shockwave
+RegDB Val: Shockwave Director 11.0.3
+RegDB Name: QuietDisplayName
+RegDB Root: 2
+RegDB Old: Shockwave Director 11.0.3
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Shockwave
+RegDB Val: RunDll32 advpack.dll,LaunchINFSection C:\Windows\\INF\\swdir.inf,DefaultUninstall,5
+RegDB Name: QuietUninstallString
+RegDB Root: 2
+RegDB Old: RunDll32 advpack.dll,LaunchINFSection C:\Windows\\INF\\swdir.inf,DefaultUninstall,5
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Setup\OptionalComponents\SwDir
+RegDB Val: 1
+RegDB Name: Installed
+RegDB Root: 2
+RegDB Old: 1
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Shockwave
+RegDB Val: 4.70.0.1155
+RegDB Name: RequiresIESysFile
+RegDB Root: 2
+RegDB Old: 4.70.0.1155
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}
+RegDB Val: Shockwave ActiveX Control
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\Control
+RegDB Val: 
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\EnableFullPage\.dcr
+RegDB Val: 
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\EnableFullPage\.dir
+RegDB Val: 
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\EnableFullPage\.dxr
+RegDB Val: 
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\Implemented Categories\{7DD95801-9882-11CF-9FA9-00AA006C42C4}
+RegDB Val: 
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\Implemented Categories\{7DD95802-9882-11CF-9FA9-00AA006C42C4}
+RegDB Val: 
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\MiscStatus
+RegDB Val: 0
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\MiscStatus\1
+RegDB Val: 131473
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\ProgID
+RegDB Val: SWCtl.SWCtl.11
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\Programmable
+RegDB Val: 
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\ToolboxBitmap32
+RegDB Val: C:\Windows\system32\Adobe\Shockwave 11\Control.dll, 203
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\TypeLib
+RegDB Val: {AC4C21AD-9194-416E-9D34-D6C1350F28F6}
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\Version
+RegDB Val: 1.0
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\VersionIndependentProgID
+RegDB Val: SWCtl.SWCtl
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\InprocServer32
+RegDB Val: C:\Windows\system32\Adobe\Director\SwDir.dll
+RegDB Key: CLSID\{166B1BCA-3F9C-11CF-8075-444553540000}\InprocServer32
+RegDB Val: Apartment
+RegDB Name: ThreadingModel
+RegDB Key: Software\Adobe\Shockwave 11\current\xtras\files\qt3asset\basefolder
+RegDB Val: CorePlayerXtras
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\current\xtras\files\qt3asset\filename
+RegDB Val: QT3Asset.x32
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\current\xtras\files\qt3asset\version
+RegDB Val: 1103472
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\checkagetitle
+RegDB Val: Anna ikäsi
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\checkagetext1
+RegDB Val: Atom Entertainment huolehtii lasten yksityisyydestä.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\checkagetext2
+RegDB Val: Ole hyvä ja anna ikäsi
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\checkagetext3
+RegDB Val: Valinta ei vaikuta Shockwave Playerin asennukseen tai käyttöön.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\checkage13orolderradiotext
+RegDB Val: Yli 18
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\checkageunder13radiotext
+RegDB Val: Alle 18
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\registertitle
+RegDB Val: Rekisteröidy peli- ja viihdepalveluun
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\regerrortitle
+RegDB Val: Rekisteröidy peli- ja viihdepalveluun
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\registertop
+RegDB Val: Huomaa, että antamasi tiedot siirtyvät suoraan Atom Entertainmentille ja ovat Atom Entertainmentin käyttöehtojen ja yksityisyydensuojakäytännön alaisia.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\registermiddle
+RegDB Val: Varmista, että syötetyt tiedot ovat oikein, jotta voimme lähettää rekisteröintitietosi.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\registersendinfo
+RegDB Val: Haluan saada Shockwave.comilta sähköpostiini uutisia peleistä ja viihteestä.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\registerinfobad
+RegDB Val: Hups! Ole hyvä ja täytä tähdellä merkityt kentät.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\firstlabel
+RegDB Val: Etunimi:
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\emaillabel
+RegDB Val: Sähköposti:
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\lastlabel
+RegDB Val: Sukunimi:
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\privtitle
+RegDB Val: Shockwave Playerin päivitysilmoitus
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\privtext1
+RegDB Val: Shockwave Player voi tarkistaa päivitykset ja ilmoittaa, kun ne ovat saatavilla.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\privtext2
+RegDB Val: Saat päivitysilmoituksen, kun Shockwave Playeriin on saatavilla päivityksiä. Ilmoituspalvelu lähettää myös anonyymeja käyttötietoja palvelun parantamiseksi.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\privtext3
+RegDB Val: Adobe kunnioittaa yksityisyyttäsi. Jos haluat lukea käytännöistämme, tai selvittää, mitä tietoja Adobelle lähetetään, valitse Lisätietoja.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\privcheckboxtext
+RegDB Val: Päivitysilmoitus (suositeltava)
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\moreinfobuttonw
+RegDB Val: &Lisätietoja
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\moreinfobuttonm
+RegDB Val: Lisätietoja
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\showsell
+RegDB Val: n
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\selltitle
+RegDB Val: Shockwave Playerin asentaminen
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\selltext11
+RegDB Val: Asennetaan Shockwave Player - älä peruuta toimintoa.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\selltext12
+RegDB Val: Ilmaisella Shockwave Playerilla voit kokea tuhansien Web-sivustojen vuorovaikutteisen sisällön upeimmillaan.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\selltext13
+RegDB Val: Katsele mahtavia tuote-esittelyjä ja tee ostoksia, koe verkon multimediayhteisöt, uusimmat pelit ja paljon muuta!
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\selltext21
+RegDB Val: Asennetaan Shockwave Player - älä peruuta toimintoa.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\selltext22
+RegDB Val: Oletko kiinnostunut verkkoviihteestä? Tutustu shockwave.comin mahtavaan Shockwave Entertainment -kokoelmaan!
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\selltext23
+RegDB Val: Shockwave.comista voit myös ladata ilmaisen Shockmachinen, jolla voit tallentaa pelejä Shockwave Entertainment -kokoelmasta ja pelata niitä offline-tilassa.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\finaltitle
+RegDB Val: Rekisteröityminen on valmis.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\finaltext1
+RegDB Val: Kiitos, kun rekisteröidyit Atom Entertainmentin peli- ja viihdepalveluihin.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\finaltext2
+RegDB Val: Jatka valitsemalla "Seuraava".
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\finaltext3
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\finaltext4
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\welcomecenterurl
+RegDB Val: http://www.shockwave.com/bin/shockwave$1/visitor/welcome.jsp?first=$2&last=$3&email=$4&pref=$5&lang=$6&loc=$7&age=$8&url=$9
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\welcomebuttonw
+RegDB Val: &Seuraava
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\welcomebuttonm
+RegDB Val: Seuraava
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\playerupdatetitle
+RegDB Val: Uusi Shockwave Player on saatavilla
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\playerupdatetext1
+RegDB Val: Shockwave Playerin uusi versio on nyt saatavilla.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\playerupdatetext2
+RegDB Val: Päivitä Shockwave Player automaattisesti valitsemalla "Päivitä nyt"
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\playerupdatetext3
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\updatenowbuttonw
+RegDB Val: &Päivitä nyt
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\updatelaterbuttonw
+RegDB Val: Päivitä myöhemmin
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\updatenowbuttonm
+RegDB Val: Päivitä nyt
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\updatelaterbuttonm
+RegDB Val: Päivitä myöhemmin
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\pluginupdatetitle
+RegDB Val: Uusi Shockwave Player on saatavilla
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\pluginupdatetext1
+RegDB Val: Shockwave Playerin päivitetty versio on nyt saatavilla.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\pluginupdatetext2
+RegDB Val: Varmista, että pystyt katselemaan Internetin parasta multimediasisältöä. Pidä Shockwave Player ajan tasalla valitsemalla "Päivitä nyt".
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\pluginupdatetext3
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\downloadtitle
+RegDB Val: Shockwave-lataus käynnissä
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\downloadtext
+RegDB Val: Ladataan ohjelmistopäivityksiä.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\downloading
+RegDB Val: Ladataan...
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\newstitle
+RegDB Val: Shockwave.com-uutiset
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\newstext
+RegDB Val: Shockwave on upea, eikö vain? Hyvää päivänjatkoa.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\nottodaybuttonm
+RegDB Val: Ei tänään
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\nottodaybuttonw
+RegDB Val: &Ei tänään
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\yesbuttonm
+RegDB Val: Kyllä
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\yesbuttonw
+RegDB Val: &Kyllä
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\ErrorURL
+RegDB Val: http://www.shockwave.com/download/
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\updateshockwaveurl
+RegDB Val: http://www.shockwave.com/bin/shockwave/download/update.jsp?lang=en&version=850
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\cancelquestion
+RegDB Val: Shockwave Playeria ladataan edelleen. Jos keskeytät nyt, et pysty katselemaan Shockwave-sisältöä selaimellasi. Haluatko varmasti keskeyttää latauksen?
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\canceltitle
+RegDB Val: Varoitus!
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\nextbuttonw
+RegDB Val: &Seuraava >
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\finishbuttonw
+RegDB Val: &Seuraava
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\backbuttonw
+RegDB Val: < &Takaisin
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\nextbuttonm
+RegDB Val: Seuraava >
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\finishbuttonm
+RegDB Val: Seuraava
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\backbuttonm
+RegDB Val: < Takaisin
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\showofflinedialog
+RegDB Val: This cartridge needs to connect to the Internet to continue playing. Would you like to continue playing the cartridge?
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\conflictremotetext
+RegDB Val: Favorite #F# already contains a title.  Would you like to replace it?
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\conflictmachinetext
+RegDB Val: Category #C# already contains this title.  Would you like to save another copy?
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\conflicttitletext
+RegDB Val: Save
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotemute
+RegDB Val: mute
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotenotloadedtext
+RegDB Val: You cannot save until the title finishes downloading.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotesavenotenoughmemorytext
+RegDB Val: There is not enough memory available to save the title.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotefavoritesfulltext
+RegDB Val: You have filled your Shockwave Remote favorites. Get Shockmachine to save more. It's FREE! Would you like to get it now?
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotecsmmenutext
+RegDB Val: Shockwave Remote,-,Home,Send,Search,-,Quit
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteinitialsearchtext
+RegDB Val: type search here
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotebrowserlauncherrortitle
+RegDB Val: Shockwave Error
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotebrowserlauncherrormessage
+RegDB Val: The web browser could not be opened, possibly due to lack of available memory.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoterollovertext
+RegDB Val: #;Shockwave Options;#;Help;Minimize;Close;Save this Shockwave;Restart;Pause;Play;Fast Forward;Volume;#;#;#;#;#;Shockmachine;Visit shockwave.com;Send this URL to a friend;#;#;Search for Shockwave;Restore;Shrink
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotereminderdays
+RegDB Val: 0
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteupsellinterval
+RegDB Val: 10
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteappmenutext
+RegDB Val: Go to shockwave.com,-,Shockwave Settings...,Check for Updates...,-,Select Skin
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteiconmenutext
+RegDB Val: Shockwave Remote,-,Home,Send,Search,-,Exit
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotecsmmenutextm
+RegDB Val: Shockwave Remote,-,Home,Send,Search
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotemenuquititem
+RegDB Val: Quit/Q
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotemenuaboutitem
+RegDB Val: About Shockwave
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotesettingsdialogtitle
+RegDB Val: Shockwave Settings
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotegeneraloptions
+RegDB Val: Shockwave Remote Options
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteshowatstartuptext
+RegDB Val: Show when computer starts up
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteautolaunchtext
+RegDB Val: Show when playing Remote enabled content
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotesmartpositionedtext
+RegDB Val: Automatically position near Shockwave content
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteontoptext
+RegDB Val: Always on top of other applications
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteshowicontext
+RegDB Val: Show icon in system tray
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteshowicontextm
+RegDB Val: Show control strip module
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteusenewbrowsertext
+RegDB Val: Send, Search, Home open new browser window
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotecheckforupdatestitle
+RegDB Val: Player-päivitykset
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotecheckforupdatestext
+RegDB Val: Automaattinen päivityspalvelu (suositellaan)
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotesendusagedatatext
+RegDB Val: Luovuta anonyymeja käyttötietoja
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotesendusagedatanotetext
+RegDB Val: (Tietojen avulla parannetaan Shockwave-palveluita. Tietoja ei käytetä käyttäjän tunnistamiseen.)
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotereminderoptions
+RegDB Val: Remind Me to Play
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteremindertext
+RegDB Val: Never;Daily;Weekly;Twice a month
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteremindermessage
+RegDB Val: Visit shockwave.com for new entertainment
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotebuttonstext
+RegDB Val: OK;Cancel;Apply
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotealertbuttonstext
+RegDB Val: OK;Yes;No
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotenotinstalledtext
+RegDB Val: Shockwave Remote is not installed properly and cannot be shown.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\privacytext1
+RegDB Val: Shockwave voi tarkkailla päivitettyjä versioita ja ladata ne automaattisesti.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\privacytext2
+RegDB Val: Automaattinen päivityspalvelu lähettää Adobelle anonyymeja käyttötietoja, joilla parannetaan Shockwavea ja tarkistetaan uudet versiot.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\privacytext3
+RegDB Val: Adobe kunnioittaa yksityisyyttäsi. Jos haluat lukea käytännöistämme tai selvittää, mitä tietoja Adobelle lähetetään, valitse Lisätietoja.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\finaldialogtext1
+RegDB Val: Shockwave on nyt asennettu.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\finaldialogtext2
+RegDB Val: Tutustu Shockwave Welcome Centeriin napsauttamalla Tervetuloa-painiketta. Siellä voit tarkistaa Shockwaven toimivuuden. Sivustolla on myös linkkejä Internetin parhaille Shockwave-sivustoille.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\finaldialogtext3
+RegDB Val: Voit myös palata Web-selaimeesi valitsemalla Valmis.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\renderertitle
+RegDB Val: 3D Renderer:
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\obeycontentsettingstext
+RegDB Val: Obey Content Settings
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\alwaysusesoftwarerenderertext
+RegDB Val: Always Use Software Renderer
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\alwaysusehardwareopengltext
+RegDB Val: Always Use Hardware - OpenGL
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\alwaysusehardwaredirectx5text
+RegDB Val: Always Use Hardware - DirectX 5
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\alwaysusehardwaredirectx7text
+RegDB Val: Always Use Hardware - DirectX 7
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\welcomedialogtext
+RegDB Val: Rekisteröidy peli- ja viihdepalveluihin.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\welcometext2
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\welcometext3
+RegDB Val: Ilmaisella Shockwave Playerilla voit kokea tuhansien Web-sivustojen vuorovaikutteisen sisällön upeimmillaan. Voit nyt rekisteröityä Atom Entertainmentin peli- ja viihdepalveluihin.
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\showinitialdialog
+RegDB Val: n
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\welcometitle
+RegDB Val: Rekisteröidy peli- ja viihdepalveluihin
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\SellCycle
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\sw3dbaddriverlist1
+RegDB Val: *2k*savage/ix!^5.12.01.7012$79x=stbnvidiatnt16mb!=4.10.01.9131$o2k=diamondstealthiiis530!=5.12.01.8007-8.30.24$72k=m!=5.00.2180.3711$***=atigraphicsproturbopci(atim64-gx)!^9999.0.0.0$ont=nvidiageforce256!=4.00.1381.0327$****virge!^9999.0.0.0$*9x=ibmthinkpad(cyber9397dvd)!=4.10.01.2173$79x=mach64:ragepro!=4.11.2560$*2k=m!^5.12.01.1200$o9x=intel(r)82810graphicscontroller!=4.12.01.2656$o**=m!^5.12.01.1509$o2k=3dfxvoodooseries!=5.00.2195.0197$ont=3dfxvoodooseries!=4.00.1381.0229$o2k=diamondstealthiiis540!=5.12.01.8007-8.30.24$*9x*permedia2!^4.10.01.2359$****mystique!^9999.0.0.0$*9x*g400!^4.12.1.1710$***=2164w!^9999.0.0.0$*9x=mach64:ragepro!^4.10.1720$ont*3dblasterriva!^4.03.00.2100$ont*nvidia!^4.00.1381.0508$79x*nvidia!^4.12.01.0513$o9x*diamondviperv770!^4.11.01.0402$****g100!^9999.0.0.0$59x*nvidiariva128!=4.10.1713$ont*radeon!^4.3.3109$o2k*voodoobanshee!=5.00.2195.2b$o***permedia3!^4.12.01.2107$o***ragefury!^4.3.139$o***rage128glagp!=4.00$ont*voodoo4!=4.00.1381.0229$o2k*s3inc.savage/mx!^5.12.1.7026$
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\DefaultAllowMMMail
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\sw3dbaddriverlist2
+RegDB Val: *9x*g200!^4.11.01.2519$o9x*g200!=4.12.01.2730$o9x=glintr3.!^4.12.01.2107-0829R$omc=.display_rage128!1.0.1f14/opengl1.1.2$59x=magnum/xpert128/x99/xpert2000(english)!=4.12.6292$59x=magnum/xpert128/x99/xpert2000!=4.13.7078$52k=atiragemobility-pagp(english)!=5.00.2195.4045$52k*ragexl!=5.00.2180.1$****neomagic!^9$o9x*g400!^4.12.01.1799$ont*g400!^9999.0.0.0$o2k*g400!^9999.0.0.0$ont*nvidia!=4.00.1381.0650$ont*rage128gl!=4.3.40$*2k=s3inc.savage4!^5.12.01.8011$79x*trio3d/2x!^4.11.01.5001$72k*savage/ixdisplaydriver!=5.12.01.7028-7.31.06$ont*prosavagepm133!^4.1024.1010.0010$o2k*prosavagepm133!^5.12.01.1002$59x*3dimage9!=4.10.01.2161$79x*3dimage9!=4.10.01.2161$72k=diamondmultimediafiregl1000pro!=5.00.2180.1$72k*s3graphicsprosavage!^5.13.01.1010-11.80.20$
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteusenewbrowser
+RegDB Val: 1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotehelpurl
+RegDB Val: http://www.shockwave.com/bin/shockwave/entry.jsp?page=%1/help/index.html
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\OfferOptionalUpdates
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\DefaultFirstName
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotesmartpositioned
+RegDB Val: 1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\ShowSell
+RegDB Val: y
+RegDB Root: 2
+RegDB Old: n
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\minduration2consider
+RegDB Val: 30
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotesearchurl
+RegDB Val: http://www.shockwave.com/bin/shockwave/%1/entry.jsp?jump=search&searchkey=%2&lang=%1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\ShowRegisterDialog
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteabouturl
+RegDB Val: http://www.shockwave.com/%1/remote/about/?lang=%1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\numsavedsessions
+RegDB Val: 50
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotesurpriseurl
+RegDB Val: http://www.shockwave.com/swf/easteregg.swf
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteskin
+RegDB Val: DefaultSkin
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotesmall
+RegDB Val: 1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\ShowAd
+RegDB Val: n
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\MaxNumRegAttempts
+RegDB Val: 2
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotehomeurl
+RegDB Val: http://www.adobe.com/%1/software/shockwaveplayer
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\ShowShockMachinePurchase
+RegDB Val: n
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\showprivacydialog
+RegDB Val: n
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\CollectStatistics
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\NumSells
+RegDB Val: 2
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteupsellurl
+RegDB Val: http://www.shockwave.com/bin/shockwave/%1/entry.jsp?jump=shockmachine&affiliate=1000000
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\NumSavedMovies
+RegDB Val: 25
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotepositionx
+RegDB Val: -1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotepositiony
+RegDB Val: -1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteontop
+RegDB Val: 1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteautolaunch
+RegDB Val: 1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\flashurl
+RegDB Val: http://download.macromedia.com/pub/shockwave/director/english/win95nt/702000/swflash.ocx
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotesendurl
+RegDB Val: http://www.shockwave.com/bin/shockwave/%1/entry.jsp?page=send.jsp&sendurl=%2&lang=%1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\DefaultEmail
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\msvcrtdllurl
+RegDB Val: http://download.macromedia.com/pub/shockwave/director/english/win95nt/msvcrt.dll
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\OfferNews
+RegDB Val: n
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteshowatstartup
+RegDB Val: 0
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteshowicon
+RegDB Val: 1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\PingEnabled
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\DefaultLastName
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\SellTime
+RegDB Val: 20
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\defaultautoupdate
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\DefaultPrivacy
+RegDB Val: ap
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\DefaultAllowOtherMail
+RegDB Val: n
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remoteupsellcount
+RegDB Val: 0
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotegetmachineurl
+RegDB Val: http://www.shockwave.com/shockmachine/required/?reason=%2&lang=%1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\AlwaysRegister
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\DoMandatoryUpdates
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\defaultcollectstats
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\remotecheckforupdatesurl
+RegDB Val: http://www.shockwave.com/%1/download/update/check/?lang=%1
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\uicontrol\ShowFinalDialog
+RegDB Val: n
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\allowfallback
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\otb
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\AutoUpdate
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\InstallType
+RegDB Val: GeneralFull
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\InstallState
+RegDB Val: fullinstall
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\NextPingDate
+RegDB Val: 0
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\collectstats
+RegDB Val: y
+RegDB Root: 2
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 21
+RegDB Root: 2
+RegDB Old: 20
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 21
+RegDB Root: 2
+RegDB Old: 20
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 22
+RegDB Root: 2
+RegDB Old: 21
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 22
+RegDB Root: 2
+RegDB Old: 21
+File Copy: C:\Windows\System32\Adobe\Director\np32dsw.dll | 01-16-2009 | 19:17:04 | 11.0.3.472 | 114688 | 64f776d8
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer
+RegDB Val: Adobe Shockwave Player
+RegDB Name: Description
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer
+RegDB Val: C:\Windows\SysWOW64\Adobe\Director\np32dsw.dll
+RegDB Name: Path
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer
+RegDB Val: Adobe Shockwave Player
+RegDB Name: ProductName
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer
+RegDB Val: Adobe Systems Inc
+RegDB Name: Vendor
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer
+RegDB Val: 11.0.3.472
+RegDB Name: Version
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer\MimeTypes
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer\MimeTypes\application/x-director
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer\MimeTypes\application/x-director
+RegDB Val: Adobe Shockwave Movie
+RegDB Name: Description
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer\MimeTypes\application/x-director
+RegDB Val: dir,dcr,dxr
+RegDB Name: Suffixes
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer\Suffixes
+RegDB Val: 
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer\Suffixes
+RegDB Val: 
+RegDB Name: dir
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer\Suffixes
+RegDB Val: 
+RegDB Name: dcr
+RegDB Root: 2
+RegDB Key: Software\MozillaPlugins\@adobe.com/ShockwavePlayer\Suffixes
+RegDB Val: 
+RegDB Name: dxr
+RegDB Root: 2
+Self-Register: C:\Windows\SysWOW64\Adobe\SHOCKW~2\SWHELP~1.EXE
+Self-Register: C:\Windows\SysWOW64\Adobe\Director\SwDir.dll
+File Copy: C:\Windows\system32\Adobe\Shockwave 11\dirapi.mch
+File Copy: C:\Windows\system32\Adobe\Shockwave 11\Shockwave Log
+File Copy: C:\Windows\system32\Adobe\Shockwave 11\Download.dll
+File Copy: C:\Windows\system32\Adobe\Shockwave 11\Download.exe
+File Copy: C:\Windows\Inf\Erma.inf
+File Copy: C:\Windows\Inf\swdir.inf
+Made Dir: C:\Windows\system32\Adobe\Director
+File Copy: C:\Windows\system32\Adobe\Shockwave 11\gt.exe
+File Copy: C:\Windows\system32\Adobe\Shockwave 11\gt.msi
+File Copy: C:\Windows\system32\Adobe\Shockwave 11\gi.dll
+File Copy: C:\Windows\system32\Adobe\Shockwave 11\gtapi.dll
+File Copy: C:\Windows\system32\Adobe\Shockwave 11\SYMCCHECKER.DLL
+File Copy: C:\Windows\system32\Adobe\Shockwave 11\nssstub.exe
+File Tree: C:\Windows\system32\Adobe\Shockwave 11\PostUpdate.exe
+File Tree: C:\Windows\system32\Adobe\Shockwave 11\$PluginPing.dll
+File Tree: C:\Windows\system32\Adobe\Shockwave 11\$control.dll
+RegDB Tree: Software\Adobe\SwInstall
+RegDB Tree: Software\Macromedia\SwInstall
+RegDB Root: 1
+RegDB Tree: Software\Adobe\Shockwave 11\uilanguage
+RegDB Root: 1
+RegDB Tree: Software\Adobe\Shockwave 11\copiedfrom7
+RegDB Root: 1
+RegDB Tree: Software\Adobe\Shockwave 11
+RegDB Root: 1
+RegDB Tree: Software\Adobe\Shockwave 11
+RegDB Root: 1
+RegDB Tree: Software\AppDataLow\Software\Adobe\Shockwave 11
+RegDB Root: 1
+RegDB Tree: Software\Adobe\Shockwave
+RegDB Root: 1
+RegDB Tree: Software\Microsoft\Active Setup\Installed Components\{233C1507-6A77-46A4-9443-F871F945D258}
+RegDB Root: 2
+RegDB Tree: Software\Microsoft\Active Setup\Installed Components\{2A202491-F00D-11cf-87CC-0020AFEECF20}
+RegDB Root: 2
+RegDB Tree: Software\Microsoft\Windows\CurrentVersion\Setup\OptionalComponents\SwDir
+RegDB Root: 2
+RegDB Tree: Software\Microsoft\Windows\CurrentVersion\Uninstall\Shockwave
+RegDB Root: 2
+File Tree: C:\Windows\system32\Adobe\Shockwave 11\Xtras\download\AdobeInc\*.*
+File Tree: C:\Windows\system32\Adobe\Director\*.*
+File Tree: C:\Windows\system32\Adobe\Director
+File Tree: C:\Windows\system32\Adobe\update\*.*
+File Copy: E:\Users\Asc\AppData\LocalLow\Adobe\Shockwave Player 11\dirapi.mch
+File Copy: E:\Users\Asc\AppData\LocalLow\Adobe\Shockwave Player 11\Shockwave Log
+File Tree: E:\Users\Asc\AppData\LocalLow\Adobe\Shockwave Player 11\Xtras\download\AdobeInc\*.*
+Made Dir: E:\Users\Asc\AppData\LocalLow\Adobe\Shockwave Player 11\Xtras\download
+Made Dir: E:\Users\Asc\AppData\LocalLow\Adobe\Shockwave Player 11\Xtras
+File Tree: E:\Users\Asc\AppData\LocalLow\Adobe\Shockwave Player 11\Prefs\*.*
+File Tree: E:\Users\Asc\AppData\LocalLow\Adobe\Shockwave Player 11\DswMedia\*.*
+Made Dir: E:\Users\Asc\AppData\LocalLow\Adobe\Shockwave Player 11
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: 11
+RegDB Name: DisplayVersion
+RegDB Root: 2
+RegDB Old: 11
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: Adobe Systems, Inc.
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Old: Adobe Systems, Inc.
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: http://www.adobe.com
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Old: http://www.adobe.com
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: http://www.adobe.com/support/shockwave
+RegDB Name: HelpLink
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Adobe Shockwave Player
+RegDB Val: http://www.adobe.com/software/shockwaveplayer/index.html
+RegDB Name: URLUpdateInfo
+RegDB Root: 2
+RegDB Key: Software\Macromedia\Shockwave 10\lastinstallstage
+RegDB Val: 23
+RegDB Root: 2
+RegDB Old: 22
+RegDB Key: Software\Adobe\Shockwave 11\lastinstallstage
+RegDB Val: 23
+RegDB Root: 2
+RegDB Old: 22
+RegDB Key: Software\Adobe\SwInstall
+RegDB Val: 0
+RegDB Name: State
+RegDB Root: 1
+RegDB Key: Software\Macromedia\SwInstall
+RegDB Val: 0
+RegDB Name: State
+RegDB Root: 1
+RegDB Key: Software\Adobe\Shockwave 11\CrossDomain\1
+RegDB Val: ads.diga.adobe.com
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\CrossDomain\2
+RegDB Val: diga.adobe.com
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\CrossDomain\3
+RegDB Val: ads.diga.adobe.s3.amazonaws.com
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\CrossDomain\4
+RegDB Val: ads.diga.stage.adobe.com
+RegDB Root: 2
+RegDB Key: Software\Adobe\Shockwave 11\CrossDomain\5
+RegDB Val: ads.diga.stage.adobe.com.s3.amazonaws.com
+RegDB Root: 2
