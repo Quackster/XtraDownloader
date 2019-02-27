@@ -1,0 +1,41 @@
+["speech.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/Speech",\
+"swadcmpr.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/SWA",\
+"swastrm.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/SWA",\
+"font asset.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/FontAsset",\
+"font xtra.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/FontXtra",\
+"text asset.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/TextAsset",\
+"textxtra.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/TextXtra", \
+"directsound.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/DirectSound",\
+"macromix.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/MacroMix",\
+"sound control.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/SoundControl",\
+"shockwave 3d asset.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/Shockwave3dAsset",\
+"multiusr.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/Multiusr",\
+"dvd asset.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/DVDAsset",\
+"flash asset.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/FlashAsset",\
+"windows media asset.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/WindowsMediaAsset",\
+"mix services.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/MixServices",\
+"png import export.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/PNGImportExport",\
+"animated gif asset.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/AnimatedGIFAsset",\
+"cursor asset.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/CursorAsset",\
+"mpeg 3 import export.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/MPEG3ImportExport",\
+"realmedia asset.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/RealMediaAsset",\
+"sound import export.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/SoundImportExport", \
+"sun au import export.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/SunAUImportExport",\
+"swa import export.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/SWAImportExport",\
+"targa import export.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/TargaImportExport",\
+"tiff import export.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/TIFFImportExport",\
+"xmlparser.x32": "https://download.macromedia.com/pub/shockwave10.4/xtras/XMLParser",\
+"speech": "https://download.macromedia.com/pub/shockwave10.1/xtras/Speech",\
+"swa decompression ppc xtra": "https://download.macromedia.com/pub/shockwave10.1/xtras/SWA",\
+"swa streaming ppc xtra": "https://download.macromedia.com/pub/shockwave10.1/xtras/SWA",\
+"font asset ppc": "https://download.macromedia.com/pub/shockwave10.1/xtras/FontAsset",\
+"font xtra ppc": "https://download.macromedia.com/pub/shockwave10.1/xtras/FontXtra",\
+"textasset ppc": "https://download.macromedia.com/pub/shockwave10.1/xtras/TextAsset",\
+"textxtra ppc": "https://download.macromedia.com/pub/shockwave10.1/xtras/TextXtra",\
+"sound control": "https://download.macromedia.com/pub/shockwave10.1/xtras/SoundControl",\
+"shockwave 3d asset xtra": "https://download.macromedia.com/pub/shockwave10.1/xtras/Shockwave3dAsset",\
+"multiusr": "https://download.macromedia.com/pub/shockwave10.1/xtras/Multiusr",\
+"dvd asset": "https://download.macromedia.com/pub/shockwave10.1/xtras/DVDAsset",\
+"mix services": "https://download.macromedia.com/pub/shockwave10.4/xtras/MixServices",\
+"png import export": "https://download.macromedia.com/pub/shockwave10.4/xtras/PNGImportExport",\
+"flash asset ppc": "https://download.macromedia.com/pub/shockwave10.1/xtras/FlashAsset"]
